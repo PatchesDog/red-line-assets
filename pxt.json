@@ -1,0 +1,44 @@
+{
+    "name": "Red Line Assets",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#000000",
+        "#FF0000",
+        "#FF0000",
+        "#230A2E",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#230A2E",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#C800FF",
+        "#FFFFFF",
+        "#7816B1",
+        "#410B3D",
+        "#821742",
+        "#230A2E"
+    ]
+}

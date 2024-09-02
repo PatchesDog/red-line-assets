@@ -1,0 +1,28 @@
+{
+    "nextPaletteID": 1,
+    "palettes": {
+        "custom0": {
+            "id": "custom0",
+            "name": "RED-LINE6 by Luke",
+            "colors": [
+                "#000000",
+                "#FF0000",
+                "#FF0000",
+                "#230A2E",
+                "#FFFFFF",
+                "#FFFFFF",
+                "#230A2E",
+                "#FFFFFF",
+                "#FFFFFF",
+                "#FFFFFF",
+                "#C800FF",
+                "#FFFFFF",
+                "#7816B1",
+                "#410B3D",
+                "#821742",
+                "#230A2E"
+            ],
+            "custom": true
+        }
+    }
+}
